@@ -1,11 +1,7 @@
 # Electron-ColorGame
 #### A simple JS desktop application using electronJS .
-<!-- ![npm (scoped)](https://img.shields.io/npm/v/@sparshjain/emoji?logo=npm&style=for-the-badge)
-![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/@sparshjain/emoji/2.1.0?style=for-the-badge)
-![npm collaborators](https://img.shields.io/npm/collaborators/@sparshjain/emoji?logo=npm&style=for-the-badge)
-![NPM](https://img.shields.io/npm/l/@sparshjain/emoji?logo=github&style=for-the-badge) -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/SparshJain2000/electron-ColorGame?color=red&logo=github&style=for-the-badge)
-![js](https://img.shields.io/static/v1?label=ELECTRON&message=Application&color=black&logo=electron&style=for-the-badge)
+![js](https://img.shields.io/static/v1?label=ELECTRON&message=Application&color=black&logoColor=white&logo=electron&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/SparshJain2000/electron-ColorGame?style=for-the-badge&color=green)
 ![GitHub top language](https://img.shields.io/github/languages/top/SparshJain2000/electron-ColorGame?logo=javascript&style=for-the-badge)
 
