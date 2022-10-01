@@ -11,7 +11,7 @@ var hard = document.getElementById("hard");
 for (var i = 0; i < num; i++) {
     squares[i].style.backgroundColor = colorArr[i];
 }
-easy.addEventListener("click", function() {
+easy.addEventListener("click", () => {
     easy.classList.add("click");
     hard.classList.remove("click");
     num = 3;
@@ -28,7 +28,7 @@ easy.addEventListener("click", function() {
     head.style.backgroundColor = "steelblue";
 });
 color.textContent = colorAns;
-hard.addEventListener("click", function() {
+hard.addEventListener("click", () => {
     hard.classList.add("click");
     easy.classList.remove("click");
     num = 6;
@@ -51,7 +51,7 @@ color.textContent = colorAns;
 //  //   reset(3);
 // }
 for (var i = 0; i < squares.length; i++) {
-    squares[i].addEventListener("click", function() {
+    squares[i].addEventListener("click", () => {
         if (this.style.backgroundColor === colorAns) {
             for (var i = 0; i < squares.length; i++) {
                 squares[i].style.backgroundColor = colorAns;
